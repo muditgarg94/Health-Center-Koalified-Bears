@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kolafied.bears.HealthCare.HealthCareApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.621 s - in com.kolafied.bears.HealthCare.HealthCareApplicationTests
